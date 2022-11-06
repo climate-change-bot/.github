@@ -1,6 +1,6 @@
 # Climate Change Bot
 
-The goal of this project is to develop a chatbot that answers questions about climate change. The chatbot will be developed in the context of the master thesis of Roger Waldvogel. If there is interest, the chatbot will be further developed after the completion of the master thesis. The work is expected to be completed on June 3, 2023. 
+The goal of this project is to develop a chatbot that answers questions about climate change. The chatbot will be developed in the context of the master thesis of [Roger Waldvogel](https://github.com/rogerwaldvogel). If there is interest, the chatbot will be further developed after the completion of the master thesis. The work is expected to be completed on June 3, 2023. 
 
 ## Subprojects
 
